@@ -629,7 +629,7 @@ button[type="submit"] {
     }
 
     .section-three {
-        height: 225vh;
+        height: 200vh;
         display: flex;
         flex-direction: column;
     }
